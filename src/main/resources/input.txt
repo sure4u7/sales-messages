@@ -1,0 +1,81 @@
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+Subtract 5p apples
+Pineapple at 10p
+20 sales of Pineapples at 10p each
+Add 20p Pineapples
+Pineapple at 10p
+20 sales of Pineapples at 10p each
+Add 20p Pineapples
+Orange at 10p
+20 sales of Oranges at 10p each
+Add 20p Oranges
+Orange at 10p
+20 sales of Oranges at 10p each
+Add 20p Oranges
+Grape at 10p
+20 sales of Grapes at 10p each
+Add 20p Grapes
+Grape at 10p
+20 sales of Grapes at 10p each
+Add 20p Grapes
+Blueberry at 10p
+20 sales of Blueberries at 10p each
+Add 20p Blueberries
+Blueberry at 10p
+20 sales of Blueberries at 10p each
+Add 20p Blueberries
+apple at 10p
+20 sales of apples at 10p each
+Pineapple at 10p
+20 sales of Pineapples at 10p each
+Add 20p Pineapples
+Pineapple at 10p
+20 sales of Pineapples at 10p each
+Add 20p Pineapples
+Orange at 10p
+20 sales of Oranges at 10p each
+Add 20p Oranges
+Orange at 10p
+20 sales of Oranges at 10p each
+Add 20p Oranges
+Grape at 10p
+20 sales of Grapes at 10p each
+Add 20p Grapes
+Grape at 10p
+20 sales of Grapes at 10p each
+Add 20p Grapes
+Blueberry at 10p
+20 sales of Blueberries at 10p each
+Add 20p Blueberries
+Blueberry at 10p
+20 sales of Blueberries at 10p each
+Add 20p Blueberries
+apple at 10p
+20 sales of apples at 10p each
+Add 20p apples
+Pineapple at 10p
+20 sales of Pineapples at 10p each
+Add 20p Pineapples
+Pineapple at 10p
+20 sales of Pineapples at 10p each
+Add 20p Pineapples
+Orange at 10p
+20 sales of Oranges at 10p each
+Add 20p Oranges
+Orange at 10p
+20 sales of Oranges at 10p each
+Add 20p Oranges
+Grape at 10p
+20 sales of Grapes at 10p each
+Add 20p Grapes
+Grape at 10p
+20 sales of Grapes at 10p each
+Add 20p Grapes
+Blueberry at 10p
+20 sales of Blueberries at 10p each
+Add 20p Blueberries
+Blueberry at 10p
+20 sales of Blueberries at 10p each
+Add 20p Blueberries
